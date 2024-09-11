@@ -15,7 +15,6 @@ Bookmate is currently built with the following technologies:
 * MongoDB
 * Material-UI
 * Stripe API
-
 ## Setup
 You can clone the repository to your local machine. Be sure that you have NodeJS and MongoDB installed that is pre-filled with mock data. You can then run `npm install`, and after installing dependencies, run `npm build`. Finally, you can run `npm start`, and check your application running at `http://localhost:3000`.
 
